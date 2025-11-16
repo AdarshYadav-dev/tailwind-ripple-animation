@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+:root {
+  --xPos: 0px;
+  --yPos: 0px;
+}
