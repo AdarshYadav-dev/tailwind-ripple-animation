@@ -5,7 +5,7 @@ Mouse track karta hai aur ripple animation usi point se expand hoti hai — ek e
 
 ---
 
-## 📦 Features
+##  Features
 
 - Fast and lightweight – Vite-powered React app  
 - Tailwind CSS ke saath utility-first styling  
@@ -14,7 +14,7 @@ Mouse track karta hai aur ripple animation usi point se expand hoti hai — ek e
 
 ---
 
-## 🚀 Installation & Running Locally
+##  Installation & Running Locally
 
 1. Repo clone karo:
 
